@@ -1,4 +1,4 @@
-# Gnome folder colour
+# Gnome folder colours
 Orange and Blue folder icons ported from Adwaita Icons 
 
 Not interested in the brown icons by Adwaita Icon theme for Gnome, here are you options
