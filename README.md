@@ -11,3 +11,14 @@ I am not quite sure about the alignment of Orange coloured folders. But Blue one
 This work is a port of folders.svg from Adwaita Icons for Gnome. Respective license apply
 
 https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+
+
+
+
+Yellow and Orange versions added based on Gnome 3.36
+
+All credits to Gnome Project, respective license apply
+
+https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+
+http://www.gnome.org
